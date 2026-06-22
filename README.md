@@ -3,7 +3,7 @@
 This repository contains the R code used to generate the
 in silico Hippo–YAP analyses reported in the manuscript:
 
-> [Akbari S. *et al.*] Time-resolved Hippo–YAP and microRNA responses to imatinib in CML K562 cells with in silico validation in CD34⁺ CML progenitors. *PLOS ONE* (submitted).
+> [Akbari S. *et al.*] Time-resolved Hippo–YAP transcript and microRNA responses to imatinib in K562 chronic myeloid leukemia cells with exploratory analysis of CD34⁺ progenitor transcriptomes. *Molecular Biology Reports* (submitted).
 
 The analyses quantify Hippo kinase and YAP/TEAD output scores in CD34+ CML
 cells before vs 7 days of imatinib (GSE12211) and in baseline imatinib
